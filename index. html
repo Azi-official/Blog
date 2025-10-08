@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Blog Post Card</title>
   <link rel="stylesheet" href="style.css" />
-  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
 </head>
 <body>
   <h1 class="page-title">Blog Post Card</h1>
@@ -16,13 +16,14 @@
     <div class="blog-content">
       <h2 class="blog-title">How Creativity Shapes Modern Media</h2>
       <p class="author-name">by <strong>Anthea Jane Abaygar</strong></p>
-      <p class="publication-date"><i class="fa-solid fa-calendar-days"></i> October 8, 2025</p>
+      <p class="publication-date"><i class="fa-regular fa-calendar"></i> October 8, 2025</p>
 
       <p class="excerpt">
-        Creativity drives innovation in today’s digital world. From content creation to storytelling, it defines how we connect and inspire others.
+        A creative student, gamer, and cosplayer from Kabankalan Catholic College who shares her journey as a small content creator while balancing studies and passion.
       </p>
 
-      <a href="#" class="read-btn">Read Article</a>
+      <!-- READ ARTICLE opens article.html -->
+      <a href="article.html" class="read-btn" aria-label="Read full article">Read Article</a>
     </div>
   </div>
 </body>
