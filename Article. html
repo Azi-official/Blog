@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Full Article — How Creativity Shapes Modern Media</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body class="article-page">
+  <header class="article-header">
+    <a href="index.html" class="back-link"><i class="fa-solid fa-angle-left"></i> Back</a>
+    <h1 class="article-title">How Creativity Shapes Modern Media</h1>
+    <p class="article-sub">by <strong>Anthea Jane Abaygar</strong> • <span class="article-date">October 8, 2025</span></p>
+  </header>
+
+  <main class="article-main">
+    <figure class="article-figure">
+      <img src="blog-image.jpg" alt="Featured" />
+    </figure>
+
+    <article class="article-content">
+      <p>
+        As a student at Kabankalan Catholic College, Anthea balances her academic responsibilities with a deep passion for gaming, cosplay, and content creation. Her daily routine blends lecture notes with character sketches and game strategy — a mix that shows creativity can flourish even with a full schedule.
+      </p>
+
+      <p>
+        On weekends she streams game sessions and documents the cosplay design process, inviting viewers to follow her progress from concept to finished outfit. Her content focuses on honest storytelling, practical tips for beginner cosplayers, and fun, community-focused game playthroughs.
+      </p>
+
+      <p>
+        Anthea's story is a reminder that modern creative careers are often built piece-by-piece — one stream, one post, one costume at a time. With persistence and authenticity, she encourages other students to pursue their interests and build communities around what they love.
+      </p>
+
+      <p class="article-cta">
+        <a href="#" class="subscribe-btn"><i class="fa-regular fa-envelope"></i> Subscribe</a>
+      </p>
+    </article>
+  </main>
+
+  <footer class="article-footer">
+    <p>© Kabankalan Catholic College Student Projects</p>
+  </footer>
+</body>
+</html>
